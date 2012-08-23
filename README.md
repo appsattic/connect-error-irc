@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/appsattic/connect-error-irc.png)](http://travis-ci.org/appsattic/connect-error-irc)
 ```
  _______  _______  _        _        _______  _______ _________
 (  ____ \(  ___  )( (    /|( (    /|(  ____ \(  ____ \\__   __/
